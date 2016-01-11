@@ -1,3 +1,3 @@
-# Cobol Box
+# COBOL Box
 
 Ubuntu Trusty with Open Cobol installed.
