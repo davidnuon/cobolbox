@@ -1,3 +1,3 @@
 # Cobol Box
 
-Ubuntu Trusy with Open Cobol installed.
+Ubuntu Trusty with Open Cobol installed.
